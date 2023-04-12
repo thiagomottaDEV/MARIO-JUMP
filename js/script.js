@@ -1,3 +1,5 @@
+// Script do Mario World
+
 const mario = document.querySelector('.Mario');
 const pipe = document.querySelector('.pipe');
 
