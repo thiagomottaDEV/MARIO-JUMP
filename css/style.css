@@ -11,7 +11,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background:  linear-gradient(#87ceeb, #e0f6ff); 
+    background:  linear-gradient(#008b8b, #e0f6ff); 
 }
 
 .pipe {
@@ -21,11 +21,16 @@
     animation: pipe-animation 1.5s infinite linear;
 }
 
-.Mario {
+.mario {
     width: 125px;
     position: absolute;
     bottom: 0;
     
+}
+
+.clouds {
+    width: 350px;
+
 }
 .jump {
     animation: jump 500ms ease-out;
